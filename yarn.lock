@@ -5081,10 +5081,10 @@ gatsby-transformer-sharp@^2.1.19:
     semver "^5.6.0"
     sharp "^0.22.1"
 
-gatsby@2.12.1:
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.12.1.tgz#eaaa4c86eaa06478be0a208e3a854915ae7c2d9a"
-  integrity sha512-YrdZM0ZlP/jIhEkZWX4dpkLE8I+r7PWnvEkBBO4U/DW2yirAHoGppnaS2D4scMHFke9Ou0tvq12hoiKBsMx9sQ==
+gatsby@2.13.1:
+  version "2.13.1"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.1.tgz#af55152ed738cf3918e9b3cc16a7991863da70ce"
+  integrity sha512-6Ki0tE//9iaqz3hqG6jXuRsFJOwJ1JhMHlbIkon8+8Yla+dI69kZCCrmHeAAgLB/d+PzPMr6dko3FRKjRPAo9w==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
